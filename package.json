@@ -1,0 +1,15 @@
+{
+  "name": "lime-go-electron",
+  "version": "1.0.0",
+  "description": "A electron wrapper of Lime Go",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"node build.js"
+  },
+  "author": "fpe",
+  "license": "ISC",
+  "dependencies": {
+    "nativefier": "^7.0.1"
+  }
+}
